@@ -20,7 +20,6 @@ export default function Home() {
             </code>
             .
           </li>
-          <li>Save and see your changes instantly.</li>
           <iframe
             width="560"
             height="315"
